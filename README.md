@@ -37,7 +37,7 @@ I'm especially interested in **AI-assisted content authoring, assessment design,
 
 - **PhD, Mathematics** — University of Tennessee
 - Published in *The Journal of Analysis* · [arXiv:1607.03404](https://arxiv.org/abs/1607.03404) · [Google Scholar](https://scholar.google.com/citations?user=raxuPegAAAAJ)
-- 20+ years teaching mathematics, computer science, and data analytics; authored competency-based performance assessments (with objective quality gates) for WGU's Bachelor of Science in AI Infrastructure and Operations, and serve as subject matter expert for a master's-level course in AI for engineering and scientific discovery.
+- 20+ years teaching mathematics, computer science, and data analytics; designed a competency-based performance assessment (with an objective quality gate) for a CI/CD and MLOps course in WGU's Bachelor of Science in AI Infrastructure and Operations, and serve as subject matter expert for a master's-level course in AI for engineering and scientific discovery.
 
 ## 📫 Connect
 
